@@ -10,9 +10,6 @@ public class EclipseSample {
 		//int total = total + temp * temp * temp;
 		number/=10;
 		System.out.println(number);
-		System.out.println(" Enter a Number :");
-		
-		
  }
 
 }
