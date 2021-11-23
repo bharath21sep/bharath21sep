@@ -1,5 +1,6 @@
 package sample;
 
+import java.util.Scanner;
 
 public class EclipseSample {
 
@@ -12,4 +13,8 @@ public class EclipseSample {
 		System.out.println(number);
  }
 
+		Scanner input = new Scanner(System.in);
+
+		 int count = input.nextInt();
+		 int n1=0,n2=1,n3,i;
 }
