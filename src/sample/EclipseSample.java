@@ -17,4 +17,5 @@ public class EclipseSample {
 
 		 int count = input.nextInt();
 		 int n1=0,n2=1,n3,i;
+		 //sdwewiejhwjdkj
 }
